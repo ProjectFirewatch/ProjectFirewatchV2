@@ -1,6 +1,6 @@
 ---
 date: "06-07-2021"
-title: "Info Page"
+title: "Misc Info"
 ---
 
 ## Table Of Contents
