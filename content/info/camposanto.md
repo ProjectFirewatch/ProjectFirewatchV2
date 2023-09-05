@@ -7,9 +7,9 @@ title: "Campo Santo"
 
 ---
  
-### Campo Santo Productions LLC was founded September 2013 in Bellevue, Washington by Sean Vanaman, Jake Rodkin, Nels Anderson, and Olly Moss.
+### Campo Santo Productions LLC is an American video game developer based in Bellevue, Washington. Founded in September 2013 by Sean Vanaman, Jake Rodkin, Nels Anderson, and Olly Moss, the studio is best known for its debut game released in 2016, Firewatch. In April 2018, the company was acquired by Valve.
 
-### In August 2014, a game demo of Firewatch was released at PAX West, The game was released for Microsoft Windows, PlayStation 4, OS X, Linux, and Xbox One in late 2016.
+### In August 2014, a game demo of Firewatch was released at PAX West, revealing the overall plotline and story of a fire lookout named Henry in the Shoshone National Forest in 1989. The game was released for Microsoft Windows, PlayStation 4, OS X, Linux, and Xbox One in late 2016. The game received positive reviews from critics, and has been nominatively known alongside other "walking simulators". The original score to Firewatch by Chris Remo was released digitally alongside the game, and received a vinyl release later in 2016.
 
 ### In February 2016, Vanaman stated that Campo Santo's next game would not be a sequel to Firewatch. In September 2016, both Campo Santo and Good Universe issued a partnership to produce a feature film adaptation of Firewatch and other content. In November 2016, the company stated that the game would begin a limited-run physical release towards the end of the year. At the same time, it was announced that Firewatch had sold over a million copies.
 

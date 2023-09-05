@@ -59,3 +59,5 @@ title: "Sophia Atkinson Firewatch Photos"
 <p><img loading="lazy" src="./i/4_photo_16.webp"></p>
 <p><img loading="lazy" src="./i/4_photo_17.webp"></p>
 <p><img loading="lazy" loading="lazy" src="./i/4_photo_18.webp"></p>
+
+*These Photos are under the GNU General Public License v3.0, Please look at the License before redistributing.*

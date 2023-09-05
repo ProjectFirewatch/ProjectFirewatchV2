@@ -1,4 +1,5 @@
 baseURL: https://projectfirewatch.com
+disablePathToLower: true
 languageCode: en-us
 defaultContentLanguage: en
 title: "Project Firewatch"
@@ -6,9 +7,6 @@ theme: cupper-hugo-theme
 #googleAnalytics: UA-123456789-1
 #disqusShortname: yourdiscussshortname
 enableGitInfo: false
-
-#taxonomies:
-#  tag: tags
 
 permalinks:
   post: /:filename/

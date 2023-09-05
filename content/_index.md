@@ -46,8 +46,4 @@ title: "Home"
 
 
 
-<style>
-#title{
-    display:none;
-}
-</style>
+<style>#title{display:none;}</style>
