@@ -10,7 +10,7 @@ The animal lists below contain location names which may be spoilers. The map doe
  
 ---
  
-# Wildlife Map
+## Wildlife Map
 
 ---
  
@@ -20,7 +20,7 @@ The animal lists below contain location names which may be spoilers. The map doe
 
 ---
  
-# Bear
+## Bear
  ![Bear Tree](/cdn/shoshonewildlifenotes/631422921_preview_bear-tree.webp)
  
  I'd read that both Black Bears (Ursus americanus) and Grizzly Bears (Ursus arctos) can be found in the Shoshone National Forest, and I was anxious about the idea of encountering either during my stay. For better or worse, I only spotted signs of their presence.
@@ -33,7 +33,7 @@ Along the trail from Cache 306 toward Jonesy Lake (clawed stump)
 
 ---
  
-# Birds
+## Birds
 ![Birds](/cdn/shoshonewildlifenotes/631422921_preview_birds.webp)
 
 Upon arriving at Two Forks, I was glad to see a copy of George Sinclair's wonderful The Birds of Wyoming. I had forgotten to bring any bird reference books with me and had resigned myself to having to rely on memory to identify the Shashone birdlife.
@@ -57,7 +57,7 @@ I have also heard woodpeckers, crows and other forest birds - even owls at night
 
 ---
  
-# Elk
+## Elk
 ![Elk](/cdn/shoshonewildlifenotes/631422921_preview_elk.webp)
 
 A wild bull was grazing on the path as I hiked in from the Thorofare Trailhead. I was not prepared for just how big elk (Cervus canadensis) are. After getting over my surprise at the animal's mass, I studied it for a while. As soon as it caught my scent though, it bounded off.
@@ -75,7 +75,7 @@ Toward the end of my visit, I spotted a deceased elk, which looked to have been 
  
 ---
 
-# Insect
+## Insect
 ![Insect](/cdn/shoshonewildlifenotes/631422921_preview_dragonfly.webp)
 
 This place would be a lepidopterist's dream. No matter where I turn, I feel like I'm being bapped in the face by a moth or butterfly. They are too numerous to list individually, but I've spotted five distinct species: the Monarch (Danaus plexippus) with its distinctive orange and black markings, the yellow Tiger Swallowtail (Papilio glaucus), the Mourning Cloak (Nymphalis antiopa) with its deep maroon wings and creme trimming, an interesting variant of the American Painted Lady (Vanessa virginiensis) featuring ventral markings on its dorsal side, and the Cabbage Moth (Pieris rapae) - the butterfly that everybody calls a moth just because it doesn't have colourful markings.
@@ -106,7 +106,7 @@ Beyond butterflies, I've also observed Blue Dasher dragonflies (Pachydiplax long
 
 ---
 
-# Turtle
+## Turtle
 ![Turtle](/cdn/shoshonewildlifenotes/631422921_preview_turt.webp)
 
 The Ornate Box Turtle (Terrapene ornata) is enormously cute, but difficult to spot.
@@ -121,7 +121,7 @@ I've found five locations with signs of turtles, but once I've spotted or gotten
 
 ---
 
-# Raccoon
+## Raccoon
 ![Raccoon](/cdn/shoshonewildlifenotes/631422921_preview_raccoon2.webp)
 
 When I first spotted one of Wyoming's raccoons (Procyon lotor) in a small clearing, I was dismayed to see it wrestling with a packaged granola bar. The cache boxes around here may be bear proof, but they certainly don't seem to be resistant to those tiny hands and mischievous minds.
@@ -135,4 +135,3 @@ As soon as it saw me, it scampered off, never to be seen again - or so I thought
 
 # Credits
 [Cheeseness](https://steamcommunity.com/sharedfiles/filedetails/?id=631422921)
-

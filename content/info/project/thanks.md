@@ -3,7 +3,7 @@ date: "06-11-2021"
 title: "Thank You"
 ---
 
-# This is where we thank all of you.
+### This is where we thank all of you.
  
 ---
  
@@ -38,5 +38,3 @@ WoW 10,000,000 million page views, numbers like this are big, I don't know what 
 12/29/2021
 
 17,000,000 million page views, Thanks for all of the support on Project Firewatch, Hope to do some cool stuff very soon. Also Firewatch was updated after almost 4 years!!
-
----

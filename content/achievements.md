@@ -71,7 +71,7 @@ Adopted a turtle as a pet.
 
 - In Firewatch, turtles can be found in several locations throughout the wilderness. I listed a few of these locations below if you wish to find a turtle pet of your own. However, keep in mind that a turtle will not always be present at the locations listed below. These are just some of the common locations that players have found their own turtle companions. Once you find a turtle, make sure to report it to Delilah and adopt it to bring it with you.
 
-<br>
+
 
 Thorofare Trail
 The first location you can check for a turtle is along the Thorofare Trail. Starting at the Two Forks Lookout tower, head southeast along a trail leading away from the bottom of the tower stairs. Before the trail curves to the left, look for an opening in the fence leading to another trail heading east. Continue down this trail.
@@ -106,15 +106,15 @@ Got attacked by a raccoon; probably didn't get rabies.
 
 - Start a free roam game and go to the location marked on the map. Enter the cabin where the arrow is pointing and go down the stairs. Open the stove and a raccoon will jump out and the achievement will unlock.
 
-<br>
+
 
 ![Map 1](/cdn/achievements/2438900192_preview_UhPAbZJ.webp)
 
-<br>
+
 
 - This can be completed as early as Day 76. When you start Day 76, head north toward Beartooth Point. About halfway there (between the words "Thorofare Trail" and "Telephone"), the trail splits once and then again. After the split, look for an old outhouse that is falling apart (it contains the lyrics to Ol' Shoshone inside). From the outhouse, head east and look for an old cabin that is falling apart. Inside, go into the basement and open the stove. A raccoon should jump out and the achievement will unlock.
 
-<br>
+
 
 ![Map 2](/cdn/achievements/2438900192_preview_4208-001.webp)
 ![Raccoon](/cdn/achievements/2438900192_preview_racoon.webp)
@@ -127,7 +127,7 @@ Bee Plot.
 
 Got stung by a bee. It happens.
 
-<br>
+
 
 - Start a free roam game and make sure you bring your climbing gear and the axe with you.
 Go to the area marked on the map and open the gate. Directly in front of you is a small box thing you can open. Open it and a bee will fly out and sting you and the achievement will unlock.
@@ -142,7 +142,7 @@ Ol' Shoshone.
 
 Listened to the tape of "Ol' Shoshone." Cavorted among the aspens.
 
-<br>
+
 
 - Start a free roam game. Make sure you take the axe with you from the lookout.
 Go to the area marked on the map and clear out the bushes where the arrow is pointing. Continue through and you will see a chair and a bunch of junk. Pick up the tape and the achievement should pop.

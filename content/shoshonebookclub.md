@@ -371,9 +371,6 @@ by Howard Cruthers
 
 [Original Post](https://steamcommunity.com/sharedfiles/filedetails/?id=625733417)
 
-# Guide by
-
 [Cheeseness](https://steamcommunity.com/id/cheeseness)
 
 [Mimness](https://steamcommunity.com/id/Mim_Ness)
-

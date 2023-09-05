@@ -1,6 +1,7 @@
 {{ define "main" }}
 <main id="main">
-  <h1>{{ .Title }}</h1>
+  <h1 id="title">{{ .Title }}</h1>
+  <hr>
   {{ if site.Params.search }}
   <input
     id="search"

@@ -1,17 +1,22 @@
+# A project dedicated to the game Firewatch by Campo Santo.
 
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 first byte timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 first byte timeout</h1>
-    <p>first byte timeout</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-pdx12321-PDX 1693887323 421926383</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+---
+ 
+## Want to contribute? Fork the project, and do a pull request.
+
+![Contribute](https://projectfirewatch.com/cdn/contribute.webp)
+
+---
+ 
+### [Our Email](mailto:contact@projectfirewatch.com)
+
+---
+ 
+## Planned things.
+### Moved to https://github.com/orgs/ProjectFirewatch/projects/1
+
+---
+ 
+# Contributors!
+### Moved to.
+### https://projectfirewatch.com/info/project/contributors/

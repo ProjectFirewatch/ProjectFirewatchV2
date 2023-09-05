@@ -1,6 +1,6 @@
 ---
 date: "06-07-2021"
-title: "Firewatch Wiki"
+title: "Firewatch"
 ---
 ![firewatch_subpage_mainlogo@2x](/cdn/info/Firewatch/firewatch_subpage_mainlogo@2x.webp)
 

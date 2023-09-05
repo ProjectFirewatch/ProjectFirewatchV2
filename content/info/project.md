@@ -1,22 +1,11 @@
 ---
 date: "06-09-2021"
-title: "Project News/Info"
+title: "Project Info"
 ---
+## Table Of Contents
 
-# This page has been deprecated.
- 
----
+### [Contributors](/info/project/contributors)
 
-# July 2021 Change Log
+### [Thank you](/info/project/thanks)
 
-- Firewatch Gallery Added
-- Changed footer
-- Changed Repo name
-- Header image added
-- Moved Audio Tour from google drive to the site.
-- Added a page for the Firewatch Playthrough
-- Added archives page
-- Removed archives page because it had flaws
-
-# August 2021 Change Log
-- Added archives pages back
+### [Change Log](/info/project/changelog)
